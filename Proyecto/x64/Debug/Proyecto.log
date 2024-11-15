@@ -1,0 +1,6 @@
+﻿  ArbolProductos.cpp
+  Proyecto.cpp
+C:\Users\mynam\OneDrive\Documentos\Proyecto\Proyecto.cpp(739,27): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\mynam\OneDrive\Documentos\Proyecto\Proyecto.cpp(748,32): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+  Generando código...
+  Proyecto.vcxproj -> C:\Users\mynam\OneDrive\Documentos\Proyecto\x64\Debug\Proyecto.exe
